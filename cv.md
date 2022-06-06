@@ -7,6 +7,9 @@
 [**Codewars**](https://www.codewars.com/users/SyntacticSalt)
 
 ## Brief Info
+Graduated as a graphic designer.  
+When working as a designer, I studied some HTML&CSS. Then, already as a project manager, I felt lack of technical skills and started studying JS basics. 
+Eventually found myself switched to frontend developing, and now hope to brush up my scattered knowledge and improve skills 🙂
 
 ## Skills
 - HTML, CSS, SASS
@@ -31,7 +34,10 @@ function isWalkValid(walkArr) {
 ```
 
 ## Experience
-
-## Education
+**2021 - current** - frontend developer at Smart Systems  
+**2018 - 2021** - project manager at Smart Systems  
+**2012 - 2018** - graphic designer at Smart Systems  
 
 ## English
+C2 Proficient ([EF SET certificate](https://www.efset.org/cert/jh2sve))
+
