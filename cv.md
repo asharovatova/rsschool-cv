@@ -1,12 +1,12 @@
 # Alex Sharovatova
 
-## Contact Info
+## Contacts
 📞 + 7 919 375 2016  
 📧 co.rin@mail.ru  
 **Discord**: alesha#9379  
 [**Codewars**](https://www.codewars.com/users/SyntacticSalt)
 
-## Brief Info
+## Summary
 Graduated as a graphic designer.  
 When working as a designer, I studied some HTML&CSS. Then, already as a project manager, I felt lack of technical skills and started studying JS basics. 
 Eventually found myself switched to frontend developing, and now hope to brush up my scattered knowledge and improve skills 🙂
